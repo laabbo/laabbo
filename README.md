@@ -7,10 +7,6 @@
 Founder-builder working across product, iOS, AI agents, and systems design.
 I care about tools that feel calm, capable, and genuinely useful in the hands of real people.
 
-[![BLUEO](https://img.shields.io/badge/BLUEO-www.blueo.ai-111111?style=for-the-badge)](https://www.blueo.ai)
-[![Blue Osborne](https://img.shields.io/badge/Blue%20Osborne-blueosborne.com-1f6feb?style=for-the-badge)](https://www.blueosborne.com)
-[![GitHub](https://img.shields.io/badge/GitHub-laabbo-24292f?style=for-the-badge&logo=github)](https://github.com/laabbo)
-
 </div>
 
 ---
